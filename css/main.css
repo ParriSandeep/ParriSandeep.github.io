@@ -89,7 +89,7 @@ body {
 a {
   text-decoration: none;
 }
-
+`
 a:hover {
   color: #68d372;
 }
@@ -699,7 +699,7 @@ h6 {
   background-image: url("../img/icon/css-3.png");
 }
 #skills .container .div-card .MySQL {
-  background-image: url("../img/icon/MySQL.png");
+  background-image: url("../img/icon/Mysql.png");
 }
 #skills .container .div-card .python {
   background-image: url("../img/icon/python.png");
