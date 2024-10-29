@@ -881,7 +881,7 @@ const projectData = [
   {
     title: "Transaction Management GUI",
     subTitle: "A banking transaction management system built with Java.",
-    thumbnail: "/ParriSandeep.github.io/img/icon/favicon/transaction.jpg",
+    thumbnail: "/img/icon/favicon/transaction.jpg",
     description: "The Transaction Management GUI is a Java-based application that simulates banking transactions, including deposits and withdrawals. Built with JavaFX, this tool provides a user-friendly interface for managing up to 100 transactions, enhancing efficiency by 20% over manual methods. The project emphasizes object-oriented principles, supporting various account types and providing a scalable, easy-to-use solution.",
     techStack: ["Java", "JavaFX"],
     srcURL: "https://github.com/your-repo-link"
@@ -889,7 +889,7 @@ const projectData = [
  {
   title: "Transaction Management GUI",
   subTitle: "A banking transaction management system built with Java.",
-  thumbnail: "/ParriSandeep.github.io/img/icon/favicon/transaction.jpg",
+  thumbnail: "/img/icon/favicon/transaction.jpg",
   description: "The Transaction Management GUI is a Java-based application that simulates banking transactions, including deposits and withdrawals. Built with JavaFX, this tool provides a user-friendly interface for managing up to 100 transactions, enhancing efficiency by 20% over manual methods. The project emphasizes object-oriented principles, supporting various account types and providing a scalable, easy-to-use solution.",
   techStack: ["Java", "JavaFX"],
   srcURL: "https://github.com/your-repo-link"
