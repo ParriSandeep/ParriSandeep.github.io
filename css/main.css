@@ -1240,6 +1240,66 @@ footer .support ul li a:hover {
     width: 100%;
   }
 }
+/* General mobile adjustments */
+@media (max-width: 768px) {
+    /* Navbar */
+    .navbar {
+        padding: 20px 10px;
+    }
+    .navbar .cv-download {
+        display: block;
+    }
+    .navbar .nav-link {
+        width: 100%;
+        padding: 10px;
+        font-size: 16px;
+    }
+
+    /* Intro section */
+    #intro {
+        padding: 100px 20px;
+    }
+    #intro .text h1 {
+        font-size: 2em;
+    }
+    #intro .button {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+    #intro .img img {
+        width: 100%;
+    }
+
+    /* Skills section */
+    #skills .skill-cards-container {
+        flex-direction: column;
+        gap: 20px;
+    }
+    #skills .div-card {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+/* Extra small screen adjustments */
+@media (max-width: 480px) {
+    /* Navbar */
+    .navbar .nav-brand {
+        font-size: 1.5em;
+        padding: 10px;
+    }
+
+    /* Adjusting font sizes */
+    h1, h2 {
+        font-size: 1.5em;
+    }
+
+    /* Buttons */
+    #intro .button {
+        font-size: 0.8em;
+    }
+}
+
 @media (min-width: 768px) {
   h1,
   .typing-text {
@@ -1969,6 +2029,12 @@ footer .support ul li a:hover {
     transform: scale(95%);
     animation: none;
   }
+  /* Responsive image and animation adjustments */
+  img, #lottie-animation {
+    max-width: 100%;
+    height: auto;
+}
+
 
   .to-top i {
     color: #68d372;
